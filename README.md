@@ -309,7 +309,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Aashish Kumar Singh** - Backend Development
+- **Aman Kumar Mishra** - Backend Development
 
 ## 🆘 Support
 
